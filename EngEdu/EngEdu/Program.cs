@@ -16,6 +16,7 @@ namespace EngEdu
             Console.WriteLine("Year 2562 semster 2, I can write program");
             Console.WriteLine("Year 2563 semster 1, I am know microcontroller");
             Console.WriteLine("Year 2563 semster 2, I am Start an internship");
+            Console.WriteLine("Yrar 2564 semster 1, I know GitHub");
         }
     }
 }
